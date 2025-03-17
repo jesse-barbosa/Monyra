@@ -57,6 +57,7 @@ Para visualizar o aplicativo no dispositivo, você precisará do aplicativo Expo
 Após iniciar o Expo, um QR Code será gerado no terminal ou na janela do navegador que abrirá automaticamente.  
 
 7.1 Abra o aplicativo Expo Go no seu dispositivo.
+
 7.2 Escaneie o QR Code exibido para carregar o aplicativo.
 
 Agora o aplicativo React Native deve rodar no seu dispositivo
